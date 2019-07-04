@@ -1,0 +1,14 @@
+.Search{
+    font-family: sans-serif;
+    display: flex;
+    justify-content: center;
+    margin-bottom: 15px;
+}
+.Search label, .Search input{
+    margin:10px;
+}
+#botton{
+    margin-top: 10px;
+    border-radius: 5px;
+    height: 20px;
+}

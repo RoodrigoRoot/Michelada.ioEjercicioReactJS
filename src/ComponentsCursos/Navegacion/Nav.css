@@ -1,0 +1,38 @@
+.Navegacion{
+    margin-left: 15px;
+    
+    height: 30px;
+    width: 28%;
+     background-color: #071A2C;
+     border-radius: 5px;
+     
+     
+}
+
+
+
+
+
+#menu{
+    display: flex;
+    font-size: 15px;
+    padding-top: 5px;
+    margin:0 auto;
+    font-weight: bold;
+    justify-content: space-between;
+}
+#menu a {
+    color: white;
+     
+    text-decoration: none;
+    list-style: none;
+    
+}
+
+#menu a:hover{
+    color: white;
+    background-color: #09B309;
+    border: 1px solid #09B309;
+    border-radius: 4px;
+    
+}
